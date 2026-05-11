@@ -1,7 +1,7 @@
 Drop the following screenshot files in this folder so the main README renders them.
 Filenames must match exactly (case-sensitive on some hosts).
 
-  sidebar-top.png       Sidebar showing Field Setup, Trials & Labels, top of Geometry.
+         Sidebar showing Field Setup, Trials & Labels, top of Geometry.
                         Recommended: include a locked origin in meters, multi-trial setup.
 
   sidebar-bottom.png    Sidebar showing rest of Geometry, Plot Group Editor (enabled),
